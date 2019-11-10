@@ -1,0 +1,53 @@
+/* global */
+
+:root {
+  --mainDark: #272121;
+  --lightDark: #443737;
+  --mainRed: #ff0000;
+  --lightRed: #fd977d;
+  --mainLight: #fff1e9;
+  --mainWhite: rgb(243, 237, 237);
+  --mainYellow: #e29b00;
+  --secondYellow: #c25e00;
+  --blue: #0034c2;
+}
+
+body {
+  font-family: "Noticia Text", serif;
+  background: var(--mainWhite) !important;
+  color: var(--mainDark);
+}
+
+.text-title {
+  font-family: "Cinzel", serif;
+  letter-spacing: 0.3rem;
+  text-transform: uppercase;
+}
+
+.text-red {
+  color: var(--mainRed);
+}
+
+.text-broght {
+  color: var(--lightRed);
+}
+
+.btn-black {
+  background: transparent;
+  text-transform: capitalize;
+  font-size: 0.8rem !important;
+  color: var(--mainDark);
+  border-radius: 0 !important;
+  border: 0.1rem solid var(--mainDark) !important;
+}
+
+.btn-black:hover {
+  background: var(--mainDark) !important;
+  color: var(--mainWhite) !important;
+}
+
+.cart-icon {
+  cursor: pointer;
+  font-size: 1.2rem;
+  color: var(--mainYellow);
+}
