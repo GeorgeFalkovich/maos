@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+musical accessories online store
+Ecommerse Web Online store. Build with ReactJS
 
 ## Available Scripts
 
