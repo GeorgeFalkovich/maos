@@ -1,4 +1,4 @@
-Fully functional web ecommerce online store for selling musical goods. Build with React
+Fully functional web ecommerce online store for selling musical goods with paypal. Build with React
 
 find it on
 
