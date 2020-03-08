@@ -5,8 +5,7 @@ find it on
 https://maos.netlify.com/
 
 
-musical accessories online store
-Ecommerse Web Online store. Build with ReactJS
+Fully functional web Ecommerse Web Online store. Build with ReactJS
 
 ## Available Scripts
 
